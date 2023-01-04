@@ -1,26 +1,27 @@
-Completed coursera course using email
-someone@gmail.com
-https://www.coursera.org/learn/this_is_a_course
+Completed Datacamp course using email
+shakib.mahmud.dipto@g.bracu.ac.bd
+https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python
 
-Completed edx course using email
-someone@gmail.com
-https://edx.org/learn/this_is_a_course
+Completed Datacamp course using email
+shakib.mahmud.dipto@g.bracu.ac.bd
+https://app.datacamp.com/learn/courses/cluster-analysis-in-python
+
+Completed Datacamp course using email
+shakib.mahmud.dipto@g.bracu.ac.bd
+https://app.datacamp.com/learn/courses/cleaning-data-in-python
+
+Completed Datacamp course using email
+shakib.mahmud.dipto@g.bracu.ac.bd
+https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python
+
+Completed Datacamp course using email
+shakib.mahmud.dipto@g.bracu.ac.bd
+https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python
 
 completed youtube video:
-http://youtube....
-
-completed book:
-http://book
-
-did project:
-.....
-
-did something else
-...
-
-was active in slack:
-http://slack post URL1
-http://slack post URL2
+https://www.youtube.com/watch?v=yERlX7KmIao
+https://www.youtube.com/watch?v=JBNas6Yd30A
+https://www.youtube.com/watch?v=89BGjQYA0uE
 
 Submitter:
-12345678 Name A
+22166030 Shakib Mahmud Dipto
