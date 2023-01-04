@@ -1,11 +1,11 @@
 Unlisted youtube video:
 http://youtube....
 
-Conference submitted paper / paper submission / login Link:
-https://easy....
+Journal submission / login Link:
+https://www.editorialmanager.com/dsej/default2.aspx
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Red Blood Cell Abnormality Detection Under Federated Environment Using Deep Learning
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
@@ -16,16 +16,17 @@ Paper submission date (to workshop/conference):
 Paper submission ID: (received) from conference/workshop
 1341234
 
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+Journal Name:
+Data Science and Engineering (DSE) 
 
-Conference URL:
-http://confsite/...
+Journal URL:
+https://www.springer.com/journal/41019/
+
+
 
 Group Number:
-0
+5
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
+22166030 Shakib Mahmud Dipto
+22366021 Nadia Tasnim Mim
