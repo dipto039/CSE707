@@ -13,15 +13,13 @@ http://slides.google.com/
 Paper submission date (to workshop/conference):
 25 October 1999
 
-Paper submission ID: (received) from conference/workshop
-1341234
+Paper submission ID: Pending Approval
 
 Journal Name:
 Data Science and Engineering (DSE) 
 
 Journal URL:
 https://www.springer.com/journal/41019/
-
 
 
 Group Number:
