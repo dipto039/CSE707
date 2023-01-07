@@ -13,7 +13,7 @@ http://slides.google.com/
 Paper submission date (to workshop/conference):
 25 October 1999
 
-Paper submission ID: Pending Approval
+Manuscript Number: DSEJ-D-23-00004
 
 Journal Name:
 Data Science and Engineering (DSE) 
