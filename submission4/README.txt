@@ -8,10 +8,10 @@ Paper title:
 Red Blood Cell Abnormality Detection Under Federated Environment Using Deep Learning
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/18B-4UsaOKUqpwnl5dGGcceaRmWtKg2TN/edit?usp=sharing&ouid=111276827006341708167&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
-25 October 1999
+06 December 2022
 
 Manuscript Number: DSEJ-D-23-00004
 
